@@ -5,8 +5,6 @@
 
 - 🎓  Almost a Computer Scientist in [UFFS](https://www.uffs.edu.br/).
 
-- 💪 Front-end and HR on [FronteiraTec](https://github.com/FronteiraTec).
-
 - 🌱 Learning and exploring **JavaScript and PHP**.
 
 - 👨‍💻 Admin of dozens of groups at [grupos.jmartini.me](http://grupos.jmartini.me).
