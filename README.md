@@ -5,7 +5,7 @@
 
 - 🎓  Almost a Computer Scientist in [UFFS](https://www.uffs.edu.br/).
 
-- 🌱 Learning and exploring **JavaScript and PHP**.
+- 🌱 Learning and exploring **React and Laravel**.
 
 - 👨‍💻 Admin of dozens of groups at [grupos.jmartini.me](http://grupos.jmartini.me).
 
