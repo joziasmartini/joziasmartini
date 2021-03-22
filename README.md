@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Jozias Martini</h1>
+<h1 align="center">I'm Jozias Martini</h1>
 <h3 align="center">A Front-end Developer from Brazil</h3>
 
 <br/>
 
-- 🎓  Almost a Computer Scientist in [UFFS](https://www.uffs.edu.br/).
+- Almost a Computer Scientist in [UFFS](https://www.uffs.edu.br/).
 
-- 🌱 Learning and exploring **React and VueJS**.
+- Working as a Front-end Developer in [Compasso UOL](https://compassouol.com/).
 
-- 👨‍💻 Admin of dozens of groups at [grupos.jmartini.me](http://grupos.jmartini.me).
+- Admin of technology groups at [Groups](https://github.com/joziasmartini/groups).
 
-- ❤️ Love all about **shapes, colors and humans**.
+- Learning and exploring [Vue.js](https://vuejs.org/).
+
+- Love all about art and spirituality.
 
 <br/>
 
