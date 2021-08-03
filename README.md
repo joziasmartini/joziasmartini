@@ -5,11 +5,11 @@
 
 - Almost a Computer Scientist in [UFFS](https://www.uffs.edu.br/).
 
-- Working as a Frontend Engineer in [Compasso UOL](https://compassouol.com/).
+- Working as a Software Engineer in [Compasso UOL](https://compassouol.com/).
 
 - Admin of technology groups at [Groups](https://github.com/joziasmartini/groups).
 
-- Learning and exploring [Vue.js](https://vuejs.org/) and [Swift](https://www.apple.com/br/swift/).
+- Learning and exploring [Vue.js](https://vuejs.org/) and [Jest](https://jestjs.io/).
 
 - Love all about art and spirituality.
 
