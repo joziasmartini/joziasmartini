@@ -1,5 +1,5 @@
 <h1 align="center">I'm Jozias Martini</h1>
-<h3 align="center">A Front-end Developer from Brazil</h3>
+<h3 align="center">A Software Engineer from Brazil</h3>
 
 <br/>
 
