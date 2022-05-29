@@ -53,10 +53,11 @@ At the moment, I'm transitioning from Vue.js to React.js, improving my technical
 
 <h2>Socials</h2>
   
-<a href="https://fb.com/joziasmartini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="joziasmartini" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/joziasmartini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joziasmartini" height="30" width="40" /></a>
 <a href="https://instagram.com/joziasmartini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joziasmartini" height="30" width="40" /></a>
 <a href="https://twitter.com/joziasmartini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joziasmartini" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joziasmartini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joziasmartini" height="30" width="40" /></a>
 <a href="https://codepen.io/joziasmartini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="joziasmartini" height="30" width="40" /></a>
+<a href="https://medium.com/@joziasmartini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="joziasmartini" height="30" width="40" /></a>
 <a href="https://dev.to/joziasmartini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="joziasmartini" height="30" width="40" /></a>
 
