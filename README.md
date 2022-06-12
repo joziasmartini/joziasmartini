@@ -5,8 +5,8 @@
 <p>
 I'm a Computer Scientist and Frontend Engineer with more than 5 years of experience with focus on responsive interfaces and scalable architecture. My work has impacted dozens of companies and millions of users, working throughout the software development cycle: planning, development, testing, delivery, improvement and monitoring.<br><br>
 
-My focus has been on adaptable interfaces and systems, with good practices for code reuse, components and clean code, actively participating in the definition of website and application architecture with high-performance squads that work with agile methodology.<br><br>
-  </p>
+My focus has been on adaptable interfaces and systems, with good practices for code reuse, components and clean code, actively participating in the definition of website and application architecture with high-performance squads that work with agile methodology. Now studying the stack React, TypeScript, Redux, Jest, Cypress and Storybook.<br><br>
+</p>
   
 <h2>Stats</h2>
 
