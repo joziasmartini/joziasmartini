@@ -3,13 +3,9 @@
 <h2>Introduction</h2>
   
 <p>
-I started exploring computers and systems when I was 13 years old.<br><br>
-
-Now, I'm a Computer Scientist and Frontend Engineer specialized in responsive interfaces and scalable architecture. My work has impacted dozens of companies and millions of users, working throughout the software development cycle: planning, development, testing, delivery, improvement and monitoring.<br><br>
+I'm a Computer Scientist and Frontend Engineer with more than 5 years of experience with focus on responsive interfaces and scalable architecture. My work has impacted dozens of companies and millions of users, working throughout the software development cycle: planning, development, testing, delivery, improvement and monitoring.<br><br>
 
 My focus has been on adaptable interfaces and systems, with good practices for code reuse, components and clean code, actively participating in the definition of website and application architecture with high-performance squads that work with agile methodology.<br><br>
-
-At the moment, I'm transitioning from Vue.js to React.js, improving my technical knowledge and studying areas that interest me, such as user experience and project management, always looking to improve myself and deliver my services with professionalism and excellence.<br><br>
   </p>
   
 <h2>Stats</h2>
