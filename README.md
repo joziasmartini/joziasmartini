@@ -6,7 +6,7 @@
 <div align="center">
   <p>Computer Scientist and Frontend Engineer</p>
   <p>Impacted dozens of companies and millions of users</p>
-  <p>I create projects from zero to deploy</p>
+  <p>Projects from zero to deploy</p>
 </div>
 <br/>
 
