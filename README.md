@@ -1,17 +1,14 @@
 <div align="center">
   <h2>Introduction</h2>
 </div>
-  
-- Computer Scientist from Federal University (UFFS) 
-- Frontend Engineer with more than 5 years of experience
-- My work has impacted dozens of companies and millions of users
-- Working throughout the software development cycle
-- Planning, development, testing, delivery, improvement and monitoring
-- My focus has been on adaptable interfaces and systems
-- Good practices for code reuse, components and clean code
-- Actively participating in the definition of the application architecture
-<br><br>
 
+<br/>
+<div align="center">
+  <p>Computer Scientist and Frontend Engineer</p>
+  <p>Impacted dozens of companies and millions of users</p>
+  <p>I create projects from zero to deploy</p>
+</div>
+<br/>
 
 <div align="center">
   
