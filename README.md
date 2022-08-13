@@ -4,7 +4,7 @@
 
 <br/>
 <div align="center">
-  <p>I started exploring computers and systems when I was 13 years old, and after many years studying computer science and more working with software development, my goal is to be a specialist in my area.
+  <p>I started exploring computers and systems when I was 13 years old, and after many years studying computer science and working with software development, my goal is to be a specialist in my area.
 
 My work has impacted dozens of companies and millions of users, working throughout the software development cycle: planning, development, testing, delivery, improvement and monitoring. 
 
