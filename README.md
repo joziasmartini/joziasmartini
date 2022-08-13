@@ -4,7 +4,15 @@
 
 <br/>
 <div align="center">
-  <p>I create projects from zero to deploy.</p>
+  <p>I started exploring computers and systems when I was 13 years old, and after many years studying computer science and more working with software development, my goal is to be a specialist in my area.
+
+My work has impacted dozens of companies and millions of users, working throughout the software development cycle: planning, development, testing, delivery, improvement and monitoring. 
+
+My focus has been on adaptable interfaces and systems, with good practices for code reuse, components and clean code, working with high-performance squads and agile methodology.
+
+I love to study about responsive interfaces, frontend frameworks, scalable architecture, cloud computing, npm packages, project management and startups.
+
+TLDR; I create projects from zero to deploy.</p>
 </div>
 <br/>
 
