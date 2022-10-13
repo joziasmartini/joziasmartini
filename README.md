@@ -4,20 +4,7 @@
 
 <br/>
 <div align="center">
-  <p>
-    I started exploring computers when I was thirteen years old. 
-
-    Today, after many years of computer science and software development, I feel like I was chosen for my career.
-
-    My work has impacted dozens of companies and millions of users, working throughout the software development cycle: design, development, testing,  deployment, improvement and support.
-
-    I love to study frontend frameworks, user experience, cloud computing, npm packages and project management.
-
-    I'm always out there working on tech projects or startups.
-
-    Projects: github.com/joziasmartini
-    Email: jozias.martini@gmail.com
-  </p>
+  <p>I started exploring computers when I was thirteen years old.<br/><br/>Today, after many years of computer science and software development, I feel like I was chosen for my career.<br/><br/>My work has impacted dozens of companies and millions of users, working throughout the software development cycle: design, development, testing,  deployment, improvement and support.<br/><br/>I love to study frontend frameworks, user experience, cloud computing, npm packages and project management.<br/><br/>I'm always out there working on tech projects or startups.</p>
 </div>
 <br/>
 
