@@ -4,15 +4,20 @@
 
 <br/>
 <div align="center">
-  <p>I started exploring computers and systems when I was 13 years old, and after many years studying computer science and working with software development, my goal is to be a specialist in my area.
+  <p>
+    I started exploring computers when I was thirteen years old. 
 
-My work has impacted dozens of companies and millions of users, working throughout the software development cycle: planning, development, testing, delivery, improvement and monitoring. 
+    Today, after many years of computer science and software development, I feel like I was chosen for my career.
 
-My focus has been on adaptable interfaces and systems, with good practices for code reuse, components and clean code, working with high-performance squads and agile methodology.
+    My work has impacted dozens of companies and millions of users, working throughout the software development cycle: design, development, testing,  deployment, improvement and support.
 
-I love to study about responsive interfaces, frontend frameworks, scalable architecture, cloud computing, npm packages, project management and startups.
+    I love to study frontend frameworks, user experience, cloud computing, npm packages and project management.
 
-TLDR; I create projects from zero to deploy.</p>
+    I'm always out there working on tech projects or startups.
+
+    Projects: github.com/joziasmartini
+    Email: jozias.martini@gmail.com
+  </p>
 </div>
 <br/>
 
