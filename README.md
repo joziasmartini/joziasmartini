@@ -4,16 +4,13 @@
 
 <br/>
 <div align="center">
-  <p>I started exploring computers when I was thirteen years old.<br/><br/>Today, after many years of computer science and software development, I feel like I was chosen for my career.<br/><br/>My work has impacted dozens of companies and millions of users, working throughout the software development cycle: design, development, testing,  deployment, improvement and support.<br/><br/>I love to study frontend frameworks, user experience, cloud computing, npm packages and project management.<br/><br/>I'm always out there working on tech projects or startups.</p>
+  <p>I started exploring computers when I was thirteen years old. </p>
+  <p>I'm always out there working on tech projects or startups.</p>
 </div>
 <br/>
 
 <div align="center">
   
-<h2>Stats</h2>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joziasmartini&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&dates=70458F&sideNums=8A6DC5&currStreakLabel=70458F&sideLabels=70458F&ring=8A6DC5&fire=70458F&currStreakNum=70458F&stroke=00000000)](https://git.io/streak-stats)
-
 <h2>Technologies</h2>
 
 <p>
