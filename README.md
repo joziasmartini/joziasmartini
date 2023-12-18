@@ -1,13 +1,12 @@
-<div align="center">
+## My single breath pitch
 
-## Introduction
-🏃‍♂️ I started exploring computers when I was thirteen years old <br/>
-🌐 My work has impacted dozens of companies and millions of users <br/>
-👨‍💼 Always out there working on tech projects or startups <br/>
-💻 Exploring cloud computing, npm packages and project management <br/>
-🚀 I create projects from zero to deploy <br/>
+- 🏃‍♂️ I started exploring computers when I was thirteen years old <br/>
+- 🌐 My work has impacted dozens of companies and millions of users <br/>
+- 👨‍💼 Always out there working on tech projects related to education or health <br/>
+- 💻 Exploring cloud computing, artificial intelligence and project management <br/>
+- 🚀 I create projects from zero to deploy <br/>
 
-## Technologies
+## I opened the world doors with these tools
 
 <p>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="28" height="28"/>&nbsp;</a> 
@@ -27,12 +26,10 @@
 <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="28" height="28"/>&nbsp;</a> 
 </p>
   
-## Socials
+## Find out more about my work
 
 <a href="https://linkedin.com/in/joziasmartini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joziasmartini" width="28" height="28" />&nbsp;</a>
 <a href="https://instagram.com/joziasmartini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joziasmartini" width="28" height="28" />&nbsp;</a>
 <a href="https://twitter.com/joziasmartini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joziasmartini" width="28" height="28" />&nbsp;</a>
 <a href="https://medium.com/@joziasmartini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="joziasmartini" width="28" height="28" />&nbsp;</a>
 <a href="https://dev.to/joziasmartini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="joziasmartini" width="28" height="28" />&nbsp;</a>
-
-</div>
